@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gleb/Documents/CLionProjects/lab4/exec_built-in.c
+my_shell.h
+/home/gleb/Documents/CLionProjects/lab4/my_shell.h
+
+/home/gleb/Documents/CLionProjects/lab4/main.c
+my_shell.h
+/home/gleb/Documents/CLionProjects/lab4/my_shell.h
+
+/home/gleb/Documents/CLionProjects/lab4/my_shell.h
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/param.h
+-
+errno.h
+-
+stdio.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+
+/home/gleb/Documents/CLionProjects/lab4/variables.c
+my_shell.h
+/home/gleb/Documents/CLionProjects/lab4/my_shell.h
+
